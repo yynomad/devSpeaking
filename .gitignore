@@ -1,0 +1,16 @@
+# Go
+backend/bin/
+
+# Next.js
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env files
+.env
+.env.*
+!.env.example
